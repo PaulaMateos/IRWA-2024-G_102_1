@@ -1,4 +1,4 @@
-# Information retribal and web analysis / 2024 UPF G_102_1
+# Information retrival and web analysis / 2024 UPF G_102_1
 
 ## Overview
 This project implements an Information Retrieval System using an inverted index, free text querying and TF-IDF ranking algorithms. The goal is to build an efficient search engine that processes documents and ranks them based on their relevance to user queries.
