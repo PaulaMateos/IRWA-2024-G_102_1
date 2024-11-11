@@ -9,6 +9,7 @@ This project focuses on text processing and exploratory data analysis (EDA) of t
   - [1. Data Loading](#1-data-loading)
   - [2. Text Processing](#2-text-processing)
   - [3. Exploratory Data Analysis](#3-exploratory-data-analysis)
+  - [4. Part 3 Instructions](#4-part-3-instructions)
 - [Prerequisites](#prerequisites)
 - [Running the Code](#running-the-code)
 
@@ -41,6 +42,9 @@ The EDA section explores various aspects of the tweet data through visualization
 - **Top Users by Tweet Count**: Identifies the most active users in terms of tweet volume.
 - **Retweets vs Likes Correlation**: Analyzes the relationship between retweets and likes.
 - **Heatmap**: Visualizes tweet activity patterns by hour and day of the week.
+
+### 4. Part 3 Instructions
+To complete the third part of this lab, execute exclusively all the unfolded cells within the notebook. These cells contain the necessary code for the lab, whereas any folded cells are non-essential code from previous labs and do not need to be executed.
 
 ### Prerequisites
 This project is designed to be run in Google Colab. Necessary datasets and libraries, including `nltk`, `matplotlib`, `pandas`, and `seaborn`, are pre-installed in the Colab environment.
